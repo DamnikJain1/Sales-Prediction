@@ -5,3 +5,9 @@ The main aim is to analyse which advertisement source provides more profit for t
 
 Advertising.csv contains the dataset. <br/>
 Sales_Prediction.ipynb is the jupyter notebook containing the implementation. <br/>
+
+### Comparision of Expenses vs TV: <br/>
+![Image description](https://i.ibb.co/yNLgxWb/download.png)
+
+### Comparision of Expenses vs Three advertising sources: <br/>
+![Image description](https://i.ibb.co/CPmRx27/download-1.png)
